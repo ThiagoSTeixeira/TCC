@@ -1,0 +1,107 @@
+{
+    "PlayerBehaviour": {
+        "elo": 278.6640731978521,
+        "checkpoints": [
+            {
+                "steps": 165041,
+                "file_path": "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-165041.onnx",
+                "reward": -4.256596452914751,
+                "creation_time": 1676004599.8777514,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-165041.pt"
+                ]
+            },
+            {
+                "steps": 177291,
+                "file_path": "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-177291.onnx",
+                "reward": -2.2928418775399524,
+                "creation_time": 1676004736.9677615,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-177291.pt"
+                ]
+            },
+            {
+                "steps": 277107,
+                "file_path": "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-277107.onnx",
+                "reward": -2.248977053566139,
+                "creation_time": 1676005403.8160062,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-277107.pt"
+                ]
+            },
+            {
+                "steps": 323233,
+                "file_path": "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-323233.onnx",
+                "reward": -1.6872845210812308,
+                "creation_time": 1676006051.964141,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-323233.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 323233,
+            "file_path": "results\\masstest_2\\PlayerBehaviour.onnx",
+            "reward": -1.6872845210812308,
+            "creation_time": 1676006051.964141,
+            "auxillary_file_paths": [
+                "results\\masstest_2\\PlayerBehaviour\\PlayerBehaviour-323233.pt"
+            ]
+        }
+    },
+    "EnemyBehaviour": {
+        "elo": 1200.952434591077,
+        "checkpoints": [
+            {
+                "steps": 165041,
+                "file_path": "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-165041.onnx",
+                "reward": -1.6162115576175542,
+                "creation_time": 1676004600.0084019,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-165041.pt"
+                ]
+            },
+            {
+                "steps": 177291,
+                "file_path": "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-177291.onnx",
+                "reward": 0.39465833057959876,
+                "creation_time": 1676004736.780263,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-177291.pt"
+                ]
+            },
+            {
+                "steps": 277107,
+                "file_path": "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-277107.onnx",
+                "reward": 0.6585861400646322,
+                "creation_time": 1676005404.008686,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-277107.pt"
+                ]
+            },
+            {
+                "steps": 323233,
+                "file_path": "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-323233.onnx",
+                "reward": 0.8127159137617458,
+                "creation_time": 1676006051.799045,
+                "auxillary_file_paths": [
+                    "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-323233.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 323233,
+            "file_path": "results\\masstest_2\\EnemyBehaviour.onnx",
+            "reward": 0.8127159137617458,
+            "creation_time": 1676006051.799045,
+            "auxillary_file_paths": [
+                "results\\masstest_2\\EnemyBehaviour\\EnemyBehaviour-323233.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.8.0"
+    }
+}

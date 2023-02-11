@@ -1,0 +1,125 @@
+{
+    "EnemyBehaviour": {
+        "elo": 1243.7015729596988,
+        "checkpoints": [
+            {
+                "steps": 7499984,
+                "file_path": "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-7499984.onnx",
+                "reward": 0.9079630957620523,
+                "creation_time": 1676109872.9344645,
+                "auxillary_file_paths": [
+                    "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-7499984.pt"
+                ]
+            },
+            {
+                "steps": 7999989,
+                "file_path": "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-7999989.onnx",
+                "reward": 0.9350079900406777,
+                "creation_time": 1676112366.6101804,
+                "auxillary_file_paths": [
+                    "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-7999989.pt"
+                ]
+            },
+            {
+                "steps": 8499986,
+                "file_path": "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-8499986.onnx",
+                "reward": 0.9359247984924937,
+                "creation_time": 1676114869.5064955,
+                "auxillary_file_paths": [
+                    "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-8499986.pt"
+                ]
+            },
+            {
+                "steps": 8999321,
+                "file_path": "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-8999321.onnx",
+                "reward": 0.7147487563576864,
+                "creation_time": 1676117358.0491302,
+                "auxillary_file_paths": [
+                    "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-8999321.pt"
+                ]
+            },
+            {
+                "steps": 9143641,
+                "file_path": "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-9143641.onnx",
+                "reward": 0.9409550263331486,
+                "creation_time": 1676118152.3116398,
+                "auxillary_file_paths": [
+                    "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-9143641.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9143641,
+            "file_path": "results\\Master1\\EnemyBehaviour.onnx",
+            "reward": 0.9409550263331486,
+            "creation_time": 1676118152.3116398,
+            "auxillary_file_paths": [
+                "results\\Master1\\EnemyBehaviour\\EnemyBehaviour-9143641.pt"
+            ]
+        }
+    },
+    "PlayerBehaviour": {
+        "elo": -1257.2388821694342,
+        "checkpoints": [
+            {
+                "steps": 6999962,
+                "file_path": "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-6999962.onnx",
+                "reward": -2.92723471696685,
+                "creation_time": 1676110337.719918,
+                "auxillary_file_paths": [
+                    "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-6999962.pt"
+                ]
+            },
+            {
+                "steps": 7499975,
+                "file_path": "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-7499975.onnx",
+                "reward": -2.97213347752889,
+                "creation_time": 1676112843.711943,
+                "auxillary_file_paths": [
+                    "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-7499975.pt"
+                ]
+            },
+            {
+                "steps": 7999034,
+                "file_path": "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-7999034.onnx",
+                "reward": -2.935291560373623,
+                "creation_time": 1676115371.5858366,
+                "auxillary_file_paths": [
+                    "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-7999034.pt"
+                ]
+            },
+            {
+                "steps": 8499994,
+                "file_path": "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-8499994.onnx",
+                "reward": -2.945603677652178,
+                "creation_time": 1676117848.633913,
+                "auxillary_file_paths": [
+                    "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-8499994.pt"
+                ]
+            },
+            {
+                "steps": 8545267,
+                "file_path": "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-8545267.onnx",
+                "reward": -2.9451988513653093,
+                "creation_time": 1676118152.141121,
+                "auxillary_file_paths": [
+                    "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-8545267.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8545267,
+            "file_path": "results\\Master1\\PlayerBehaviour.onnx",
+            "reward": -2.9451988513653093,
+            "creation_time": 1676118152.141121,
+            "auxillary_file_paths": [
+                "results\\Master1\\PlayerBehaviour\\PlayerBehaviour-8545267.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.8.0"
+    }
+}
